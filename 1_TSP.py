@@ -1,3 +1,4 @@
+#Version = 1.0
 import os
 from tkinter import *
 from tkinter import messagebox
